@@ -91,7 +91,6 @@ The [desktop app guide](https://viremail.com/help/desktop-app) covers settings, 
 
 ## Who makes Viremail
 
-Svayam Incarnation Limited, a company registered in England and Wales, company number 15228262.
-Registered office: 124 City Road, London EC1V 2NX, United Kingdom.
+Viremail is made by [Svayam Incarnation Limited](https://svayam.uk).
 
 Mac and macOS are trademarks of Apple Inc. Windows is a trademark of the Microsoft group of companies. Linux is the registered trademark of Linus Torvalds.
